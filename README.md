@@ -1,0 +1,2 @@
+# Movie-Records
+A movie records dataset containing information such as titles, genres, release years, ratings, and revenue, used to analyze trends, performance, and audience preferences in the film industry
