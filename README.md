@@ -5,3 +5,9 @@ A movie records dataset containing information such as titles, genres, release y
 - Identify top-rated movies
 - Analyze average ratings by genre
 - Examine movie release trends over time
+** Data Set**
+- Title
+- Genre
+- Release Year
+- Rating
+- Revenue
