@@ -19,4 +19,5 @@ A movie records dataset containing information such as titles, genres, release y
   - Python
 
 **Key Insight**
+
 Movie ratings vary by genre, and higher revenue does not always mean higher ratings.
