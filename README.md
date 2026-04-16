@@ -12,3 +12,7 @@ A movie records dataset containing information such as titles, genres, release y
 - Release Year
 - Rating
 - Revenue
+**Tools**
+  - SQL
+  - Excel
+  - Python
